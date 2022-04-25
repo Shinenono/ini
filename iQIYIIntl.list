@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,intl-subscription.iqiyi.com
 DOMAIN-SUFFIX,intl.iqiyi.com
 DOMAIN-SUFFIX,inid.iqiyi.com
 DOMAIN-SUFFIX,msg-intl.qy.net
+DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iq.com
 IP-CIDR,104.85.165.17/32,no-resolve
 IP-CIDR,110.238.107.47/32,no-resolve
