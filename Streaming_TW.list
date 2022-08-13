@@ -91,3 +91,13 @@ DOMAIN-SUFFIX,myvideo.net.tw
 DOMAIN-SUFFIX,catch.net.tw
 DOMAIN,applemediaservice.keydelivery.southeastasia.media.azure.net
 DOMAIN,akamaiendpoint-applemediaservice-aase.streaming.media.azure.net
+
+
+# > NBA
+DOMAIN-SUFFIX,nbaprop.sc.omtrdc.net
+DOMAIN-SUFFIX,nbanlds19vod.akamaized.net
+DOMAIN-SUFFIX,nba.studio.easelive.tv
+DOMAIN-SUFFIX,nba-cdn.cloud.easelive.tv
+DOMAIN-SUFFIX,cdn.nba.com
+DOMAIN-SUFFIX,nlnbaqos.neulion.com
+DOMAIN-SUFFIX,stats.nba.com
