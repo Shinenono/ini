@@ -15,7 +15,7 @@ DOMAIN,ols-ww100-cp.akamaized.net
 DOMAIN,dkfhw9rzsr80z.cloudfront.net
 
 # > TVB
-DOMAIN-SUFFIX,img.tvb.com
+DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tvbanywhere.com.sg
 
 # > friDay
