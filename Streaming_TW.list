@@ -15,20 +15,14 @@ DOMAIN,ols-ww100-cp.akamaized.net
 DOMAIN,dkfhw9rzsr80z.cloudfront.net
 
 # NAME: HamiVideo
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-03 17:11:25
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 6
-# TOTAL: 8
-DOMAIN,weblivead-hamivideo.cdn.hinet.net
-DOMAIN,webvodad-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,hamivideo.hinet.net
-DOMAIN-SUFFIX,mobilelive-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,scc.ott.hinet.net
-DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-KEYWORD,hinet.net
+DOMAIN-KEYWORD,-hinet-net
+DOMAIN,cdn.hinet.net
+DOMAIN,hamivideo.hinet.net
+DOMAIN,static-hamivideo.cdn.hinet.net
+DOMAIN,apl-hamivideo.cdn.hinet.net
+DOMAIN,previewvod-hamivideo.cdn.hinet.net
 
 # NAME: LiTV
 # AUTHOR: blackmatrix7
