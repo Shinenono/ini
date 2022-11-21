@@ -15,14 +15,14 @@ DOMAIN,ols-ww100-cp.akamaized.net
 DOMAIN,dkfhw9rzsr80z.cloudfront.net
 
 # NAME: HamiVideo
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-KEYWORD,hinet.net
-DOMAIN-KEYWORD,-hinet-net
-DOMAIN,cdn.hinet.net
-DOMAIN,hamivideo.hinet.net
-DOMAIN,static-hamivideo.cdn.hinet.net
-DOMAIN,apl-hamivideo.cdn.hinet.net
-DOMAIN,previewvod-hamivideo.cdn.hinet.net
+DOMAIN,weblivead-hamivideo.cdn.hinet.net
+DOMAIN,webvodad-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,hamivideo.hinet.net
+DOMAIN-SUFFIX,mobilelive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,scc.ott.hinet.net
+DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
 
 # NAME: LiTV
 # AUTHOR: blackmatrix7
@@ -45,37 +45,35 @@ DOMAIN-SUFFIX,fridaylogger.com
 DOMAIN,aka01p.akamaized.net
 
 # > HBO GO Asia
-// USER-AGENT,HBO%20GO%20PROD*
-// DOMAIN-KEYWORD,hboasia
-DOMAIN-KEYWORD,hbogoasia
-DOMAIN-SUFFIX,hboasia.com
-DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,dai3fd1oh325y.cloudfront.net
+DOMAIN,hboasia1-i.akamaihd.net
+DOMAIN,hboasia2-i.akamaihd.net
+DOMAIN,hboasia3-i.akamaihd.net
+DOMAIN,hboasia4-i.akamaihd.net
+DOMAIN,hboasia5-i.akamaihd.net
+DOMAIN,hboasialive.akamaized.net
+DOMAIN,hbogoprod-vod.akamaized.net
 DOMAIN,hbolb.onwardsmg.com
 DOMAIN,hbounify-prod.evergent.com
-// DOMAIN,hbogoprod-vod.akamaized.net
-// DOMAIN,hboasialive.akamaized.net
-// DOMAIN,bcbolthboa-a.akamaihd.net
-DOMAIN,dai3fd1oh325y.cloudfront.net
+DOMAIN,players.brightcove.net
+DOMAIN,s3-ap-southeast-1.amazonaws.com
+DOMAIN,wmff.warnermediacdn.com
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-KEYWORD,.hbogoasia.
+USER-AGENT,HBO%20GO%20PROD*
 
 
 # > iQIYI Intl
-USER-AGENT,iQIYI*
-USER-AGENT,QIYIVideo*
-USER-AGENT,QYPlayer*
-USER-AGENT,QTP*
-PROCESS-NAME,com.iqiyi.i18n
-PROCESS-NAME,com.iqiyi.i18n.tv
-DOMAIN-SUFFIX,iq.com
+DOMAIN,cache.video.iqiyi.com
 DOMAIN-SUFFIX,inter.iqiyi.com
+DOMAIN-SUFFIX,intl-rcd.iqiyi.com
+DOMAIN-SUFFIX,intl-subscription.iqiyi.com
 DOMAIN-SUFFIX,intl.iqiyi.com
-DOMAIN,intl-rcd.iqiyi.com
-DOMAIN,intl-subscription.iqiyi.com
-IP-CIDR,23.40.242.10/32,no-resolve
-IP-CIDR,23.59.252.0/24,no-resolve
-IP-CIDR,23.200.145.146/32,no-resolve
-IP-CIDR,23.210.215.186/32,no-resolve
-IP-CIDR,23.211.15.0/24,no-resolve
-IP-CIDR,23.219.172.0/24,no-resolve
+DOMAIN-SUFFIX,iq.com
 IP-CIDR,104.85.165.17/32,no-resolve
 IP-CIDR,110.238.107.47/32,no-resolve
 IP-CIDR,118.26.32.162/32,no-resolve
@@ -84,6 +82,14 @@ IP-CIDR,184.51.102.0/24,no-resolve
 IP-CIDR,203.74.95.130/28,no-resolve
 IP-CIDR,203.80.97.203/32,no-resolve
 IP-CIDR,210.71.227.202/32,no-resolve
+IP-CIDR,23.200.145.146/32,no-resolve
+IP-CIDR,23.210.215.186/32,no-resolve
+IP-CIDR,23.211.15.0/24,no-resolve
+IP-CIDR,23.219.172.0/24,no-resolve
+IP-CIDR,23.40.242.10/32,no-resolve
+IP-CIDR,23.59.252.0/24,no-resolve
+PROCESS-NAME,com.iqiyi.i18n
+PROCESS-NAME,com.iqiyi.i18n.tv
 
 # > KKBOX
 USER-AGENT,*KKBOX
