@@ -15,19 +15,14 @@ DOMAIN,ols-ww100-cp.akamaized.net
 DOMAIN,dkfhw9rzsr80z.cloudfront.net
 
 # NAME: HamiVideo
-DOMAIN,weblivead-hamivideo.cdn.hinet.net
-DOMAIN,webvodad-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,hls-hichannel.cdn.hinet.net
-DOMAIN-SUFFIX,hls-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,mobileevent-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,pvr-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,hamivideo.hinet.net
-DOMAIN-SUFFIX,mobilelive-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,mobilevod-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,scc.ott.hinet.net
-DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-KEYWORD,hinet.net
+DOMAIN-KEYWORD,-hinet-net
+DOMAIN,cdn.hinet.net
+DOMAIN,hamivideo.hinet.net
+DOMAIN,static-hamivideo.cdn.hinet.net
+DOMAIN,apl-hamivideo.cdn.hinet.net
+DOMAIN,previewvod-hamivideo.cdn.hinet.net
 
 
 
