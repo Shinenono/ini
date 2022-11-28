@@ -42,9 +42,12 @@ DOMAIN-SUFFIX,tvbanywhere.com.sg
 
 # > friDay
 USER-AGENT,friDay*
+DOMAIN-SUFFIX,fetnet.net
 DOMAIN-SUFFIX,friday.tw
 DOMAIN-SUFFIX,fridaylogger.com
+DOMAIN-SUFFIX,svc.litv.tv
 DOMAIN,aka01p.akamaized.net
+DOMAIN,aka02p.akamaized.net
 
 # > HBO GO Asia
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
