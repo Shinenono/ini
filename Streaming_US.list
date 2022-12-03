@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,vrv.co
 USER-AGENT,discovery+*
 USER-AGENT,DPlus*
 
+# > F1
+DOMAIN-SUFFIX,f1tv.formula1.com
+
+
 # > Discovery+ US
 DOMAIN-SUFFIX,discoveryplus.com
 DOMAIN,us1-prod.disco-api.com
