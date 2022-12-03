@@ -8,7 +8,7 @@ USER-AGENT,discovery+*
 USER-AGENT,DPlus*
 
 # > F1
-DOMAIN-SUFFIX,f1tv.formula1.com
+DOMAIN-SUFFIX,formula1.com
 
 
 # > Discovery+ US
