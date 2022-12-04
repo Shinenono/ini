@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,vrv.co
 USER-AGENT,discovery+*
 USER-AGENT,DPlus*
 
+# > F1 Pro
+USER-AGENT,formula1.com
 
 
 # > Discovery+ US
