@@ -119,27 +119,27 @@ http://ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
 #EXTINF:-1 group-title="地方卫视",连云港综合[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
-#EXTINF:-1 group-title="",哒啵赛事[1920*1080]
+#EXTINF:-1 group-title="其他",哒啵赛事[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="",黑莓动画[1920*1080]
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="其他",黑莓动画[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="",黑莓电影[1920*1080]
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="其他",黑莓电影[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 group-title="",潮妈辣婆[1920*1080]
+#EXTINF:-1 group-title="其他",潮妈辣婆[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
-#EXTINF:-1 group-title="",中国功夫[1920*1080]
+#EXTINF:-1 group-title="其他",中国功夫[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 group-title="",武搏世界[1920*1080]
+#EXTINF:-1 group-title="其他",武搏世界[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 group-title="",金牌综艺[1920*1080]
+#EXTINF:-1 group-title="其他",金牌综艺[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 group-title="",军事评论[1920*1080]
+#EXTINF:-1 group-title="其他",军事评论[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 group-title="",古装剧场[1920*1080]
+#EXTINF:-1 group-title="其他",古装剧场[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 group-title="",精品记录[1920*1080]
+#EXTINF:-1 group-title="其他",精品记录[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 group-title="",爱情喜剧[1920*1080]
+#EXTINF:-1 group-title="其他",爱情喜剧[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
 #EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/14/L1JyFI.png"group-title="4K频道",4K-UHD[3840*2160]
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
