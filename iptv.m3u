@@ -9,7 +9,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221225588/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225534/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="CCTV",CCTV5[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227166/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5+[1920*1080]
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="CCTV",CCTV5+[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="CCTV",CCTV6[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225548/index.m3u8
@@ -83,31 +83,31 @@ http://ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="全国卫视",吉林卫视[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
-#EXTINF:-1 group-title="全国卫视",海南卫视[1920*1080]
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/lvyou.png" group-title="全国卫视",海南卫视[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221228101/index.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangxi.png" group-title="全国卫视",广西卫视[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
-#EXTINF:-1 group-title="全国卫视",凤凰卫视1[1920*1080]
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzixun.png" group-title="全国卫视",凤凰资讯[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 group-title="全国卫视",凤凰卫视12[1920*1080]
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="全国卫视",凤凰中文[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 group-title="全国卫视",凤凰卫视香港台[1920*1080]
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="全国卫视",凤凰卫视香港台[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
-#EXTINF:-1 group-title="地方卫视",徐州卫视1[1920*1080]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3ce9f3b.jpg" group-title="地方卫视",徐州卫视1[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 group-title="地方卫视",徐州卫视3[1920*1080]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3c3dc83.jpg" group-title="地方卫视",徐州卫视3[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 group-title="地方卫视",徐州卫视2[1920*1080]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3d62572.jpg" group-title="地方卫视",徐州卫视2[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 group-title="地方卫视",徐州卫视4[1920*1080]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3bf3739.jpg" group-title="地方卫视",徐州卫视4[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
 #EXTINF:-1 group-title="地方卫视",邳州综合[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8
-#EXTINF:-1 group-title="地方卫视",南京新闻综合[1920*1080]
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://www.hualigs.cn/image/6159be8c414e0.jpg" group-title="地方卫视",南京新闻综合[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
-#EXTINF:-1 group-title="地方卫视",南京娱乐[1920*1080]
+#EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://www.hualigs.cn/image/6159be8c3471e.jpg" group-title="地方卫视",南京娱乐[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
-#EXTINF:-1 group-title="地方卫视",南京信息[1920*1080]
+#EXTINF:-1 tvg-id="南京信息" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159be8c32de9.jpg" group-title="地方卫视",南京信息[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
 #EXTINF:-1 group-title="地方卫视",睢宁生活教育[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227701/index.m3u8
@@ -121,9 +121,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
 #EXTINF:-1 group-title="",哒啵赛事[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1 group-title="",黑莓动画[1920*1080]
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="",黑莓动画[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="",黑莓电影[1920*1080]
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="",黑莓电影[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 group-title="",潮妈辣婆[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
@@ -141,11 +141,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 #EXTINF:-1 group-title="",爱情喜剧[1920*1080]
 http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 group-title="4K频道",4K-UHD[3840*2160]
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/14/L1JyFI.png"group-title="4K频道",4K-UHD[3840*2160]
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1 group-title="4K频道",咪咕4K[3840*2160]
 http://ott.mobaibox.com/PLTV/3/224/3221227529/index.m3u8
-#EXTINF:-1 group-title="4K频道",欢笑剧场4K[3840*2160]
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://n.ysyz.top:99/buyaolian/hxjc4k.png" group-title="4K频道",欢笑剧场4K[3840*2160]
 http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4k" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="4K频道",CCTV4K[3840*2160]
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
