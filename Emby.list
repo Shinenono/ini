@@ -1,4 +1,7 @@
 # Odyssey+ Emby
 
-DOMAIN-SUFFIX,odysseyplus.site
+DOMAIN,us.odysseyplus.site
+DOMAIN,kr.odysseyplus.site
+DOMAIN,jp.odysseyplus.site
+DOMAIN,jp2.odysseyplus.site
 DOMAIN-SUFFIX,nebula-emby.com
