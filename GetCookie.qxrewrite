@@ -1,4 +1,4 @@
-hostname = api.m.jd.com,passport.iqiyi.com,music.163.com,*.bilibili.com,wx-mini.pagoda.com.cn,h5.ele.me,maicai.api.ddxq.mobi,*.qunar.com,ccsp-egmas.sf-express.com
+hostname = api.m.jd.com,passport.iqiyi.com,wx-mini.pagoda.com.cn,maicai.api.ddxq.mobi,ccsp-egmas.sf-express.com
 
 ;京东 GetCookie by NoByDa
 ;Safari 浏览器打开登录 https://home.m.jd.com/myJd/newhome.action 点击 "我的" 页面
