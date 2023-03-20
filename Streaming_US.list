@@ -7,7 +7,8 @@ DOMAIN-SUFFIX,vrv.co
 USER-AGENT,discovery+*
 USER-AGENT,DPlus*
 
-
+# > Ultra mobile
+DOMAIN-SUFFIX,ultramobile.com
 
 
 # > Discovery+ US
