@@ -3,6 +3,13 @@ DOMAIN-SUFFIX,report.giffgaff.gbqofs.io
 DOMAIN,gcpsmapi.vodafone.com
 DOMAIN-SUFFIX,vodafone.co.uk
 DOMAIN-SUFFIX,wise.com
+DOMAIN-KEYWORD,trading212.com
+DOMAIN-SUFFIX,taptapsend.com
+DOMAIN-SUFFIX,app.sendwave.com
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,paysend.com
+DOMAIN-SUFFIX,ipostalmail.net
+
 
 
 # NAME: BBC
@@ -47,11 +54,6 @@ DOMAIN-SUFFIX,bbcverticals.com
 DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
-DOMAIN-KEYWORD,live.trading212.com
-DOMAIN-KEYWORD,www.trading212.com
-DOMAIN-KEYWORD,live.services.trading212.com
-DOMAIN-SUFFIX,taptapsend.com
-DOMAIN-SUFFIX,app.sendwave.com
-DOMAIN-SUFFIX,ifastgb.com
+
 
 
