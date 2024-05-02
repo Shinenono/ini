@@ -3,13 +3,23 @@
 # > BYBIT
 DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybit.org
-DOMAIN-SUFFIX,mtnnigeria.net
-DOMAIN-SUFFIX,chippercash.com
-DOMAIN-SUFFIX,wemaalatabujablobstorage.blob.core.windows.net
-DOMAIN-SUFFIX,alat.ng
-DOMAIN-SUFFIX,abujaralatsignalr.azurewebsites.net
+DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybitx.global
+
+# > MTN
+DOMAIN-SUFFIX,mtnnigeria.net
+
+# > ChipperCash
+DOMAIN-SUFFIX,chippercash.com
+
+# > Alat
+DOMAIN-SUFFIX,wemaalatabujablobstorage.blob.core.windows.net
+DOMAIN-SUFFIX,alat.ng
+DOMAIN-SUFFIX,abujaralatsignalr.azurewebsites.net
+
+# > Opay
 DOMAIN-SUFFIX,opayweb.com
+
