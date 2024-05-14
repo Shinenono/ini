@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,tapngo.com.hk
 
 # HSBC
 DOMAIN-SUFFIX,hsbc.com.hk
-DOMAIN-SUFFIX,*-hsbcdigital.siteintercept.qualtrics.com
+DOMAIN-SUFFIX,hsbcdigital.siteintercept.qualtrics.com
 # LIVI理慧银行
 DOMAIN-SUFFIX,livibank.com
 # 天星银行
