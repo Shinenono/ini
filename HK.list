@@ -7,9 +7,8 @@ DOMAIN-SUFFIX,clubsim.com.hk
 DOMAIN-SUFFIX,tapngo.com.hk
 
 # HSBC
-DOMAIN-SUFFIX,hsbc.com.au
-DOMAIN-SUFFIX,hsbc.co.uk
-DOMAIN-SUFFIX,zn8dqasukr2ma4z3l-hsbcdigital.siteintercept.qualtrics.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,*-hsbcdigital.siteintercept.qualtrics.com
 
 DOMAIN-SUFFIX,livibank.com
 
