@@ -25,3 +25,6 @@ DOMAIN-SUFFIX,abujaralatsignalr.azurewebsites.net
 # > Opay
 DOMAIN-SUFFIX,opayweb.com
 
+# > Palmpay
+DOMAIN-SUFFIX,palmpay.app
+DOMAIN-SUFFIX,palmpay-inc.com
