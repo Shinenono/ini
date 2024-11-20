@@ -27,15 +27,7 @@ DOMAIN,content-ausw2-ur-discovery1.uplynk.com
 DOMAIN-SUFFIX,dnitv.com
 DOMAIN,kvinit-prod.api.kochava.com
 
-# > HBO Max
-DOMAIN-SUFFIX,cinemax.com
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
-DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
-DOMAIN-SUFFIX,hbonow.com
-DOMAIN-SUFFIX,maxgo.com
-USER-AGENT,HBOMAX*
-PROCESS-NAME,com.hbo.hbonow
+
 
 # > Hulu
 DOMAIN-SUFFIX,hulu.com
