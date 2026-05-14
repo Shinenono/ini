@@ -1,7 +1,8 @@
 {
   "name":"Icon Set Name",
   "icons":[
-     {"name":"Icon1","url":"https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Nex.png"},
+     {"name":"Icon1","url":"https://raw.githubusercontent.com/Koolson/Qure/blob/master/IconSet/Color/TAG.png"},
+     {"name":"Icon2","url":"https://raw.githubusercontent.com/Orz-3/mini/refs/heads/master/Color/Ytoo.png"},
   ]
 }
 
